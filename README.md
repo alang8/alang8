@@ -1,6 +1,4 @@
-### Hi there, I'm Austin Lang, a student from Brown University.
-
-<!-- GitHub Stats -- >
+### Hi there, I'm Austin Lang, a student from Brown University. ###
 
 <a href="https://github.com/alang8">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alang8&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
