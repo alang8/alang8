@@ -6,7 +6,7 @@ I'm a passionate student studying Computer Science and Economics at Brown Univer
 
 - 💡 I'm constantly curious and enjoy discovering new technologies and their practical applications.
 - 🎓 Currently pursuing a Bachelor's degree in Computer Science and Economics, combining technical expertise with business acumen.
-- 💻 Strong programming skills in languages like Python, Java, and C++. Always eager to learn and adapt to new programming languages and frameworks.
+- 💻 Strong programming skills in languages like Python, Java, and JavaScript. Always eager to learn and adapt to new programming languages and frameworks.
 - 🤝 Excellent collaboration and communication skills honed through group projects and extracurricular activities.
 - 📊 Solid foundation in statistical analysis, data modeling, and econometric methods.
 - 📚 Passionate about staying up-to-date with the latest industry trends and advancements.
@@ -21,8 +21,8 @@ I'm a passionate student studying Computer Science and Economics at Brown Univer
 
 ## 🌍 Languages and Tools
 
-- Programming Languages: Python, Java, JavaScript, C++
-- Web Technologies: HTML, CSS, React, Django
+- Programming Languages: Python, Java, JavaScript
+- Web Technologies: HTML, CSS, React
 - Databases: SQL, MongoDB
 - Data Analysis: Pandas, NumPy, MATLAB
 - Version Control: Git, GitHub
