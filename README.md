@@ -23,7 +23,7 @@ I'm a passionate Computer Science and Economics graduate from Brown University, 
 
 - Programming Languages: Python, Java, JavaScript
 - Web Technologies: HTML, CSS, React
-- Databases: SQL, MongoDB
+- Databases: SQL, MongoDB, Snowflake
 - Data Analysis: Pandas, NumPy, MATLAB
 - Version Control: Git, GitHub
 
