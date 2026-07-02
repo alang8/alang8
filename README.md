@@ -1,4 +1,4 @@
-# Hi there! I'm Austin Lang 👋
+# Hi there! I'm Austin 👋
 
 I'm a passionate Computer Science and Economics graduate from Brown University, with a keen interest in the intersection of technology and business. I'm excited to explore various career paths, including software development, consulting, and financial services, where I can leverage my skills and knowledge to drive innovative solutions.
 
