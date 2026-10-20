@@ -42,4 +42,3 @@ I'm actively seeking opportunities and would love to connect with professionals 
 
 - LinkedIn: https://www.linkedin.com/in/austin-f-lang/
 - Email: austin.f.lang@gmail.com
-- Portfolio: https://www.austin-lang.com/
